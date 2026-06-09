@@ -34,9 +34,6 @@ CI/CD Guardian Agent does it in seconds:
 
 ## Setup
 
-1. Clone this repo
-## Setup
-
 1. Clone this repo:
 ```
    git clone https://github.com/ADLINDevops/cicd-guardian-agent.git
