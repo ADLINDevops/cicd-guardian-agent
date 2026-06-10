@@ -2,3 +2,5 @@ venv/
 .env
 __pycache__/
 *.pyc
+credentials.json
+cicd-guardian-be52d371ca01.json
